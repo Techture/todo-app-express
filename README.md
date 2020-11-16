@@ -1,6 +1,6 @@
 ## About
 
-This is a basic React/Express app using redux to manage state.
+This is a basic React/Express app
 
 ## Setup
 
